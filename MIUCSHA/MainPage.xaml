@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"  xmlns:local="clr-namespace:MIUCSHA;assembly=MIUCSHA"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" x:Class="MIUCSHA.MainPage">
+  <ContentPage.Content  >
+    <RelativeLayout  BackgroundColor="LightYellow" Opacity="1">
+
+      <Image VerticalOptions="Start"   Aspect="Fill" Source="fondo10.jpg" Opacity="0.4"
+            RelativeLayout.WidthConstraint=
+              "{ConstraintExpression Type=RelativeToParent, Property=Width}"
+       RelativeLayout.HeightConstraint=
+              "{ConstraintExpression Type=RelativeToParent, Property=Height}"
+            />
+     <StackLayout Opacity="1" BackgroundColor="DarkBlue" HeightRequest="100" WidthRequest="500">
+       
+               
+            </StackLayout>
+    
+    <Grid Margin="20,35,20,20">
+    <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="50"  />
+        <ColumnDefinition Width="200" />
+        <ColumnDefinition Width="0.5*" />
+
+    </Grid.ColumnDefinitions>
+    <Grid.RowDefinitions>
+        <RowDefinition Height="70"  />
+        <RowDefinition Height="100" />
+         <RowDefinition Height="200" />
+        <RowDefinition Height="50" />
+         <RowDefinition Height="100" />
+         <RowDefinition Height="25" />
+         <RowDefinition Height="50" />
+         <RowDefinition Height="50" />
+    </Grid.RowDefinitions>
+         <Image Source="NUcsh.png"
+            Grid.Row="0" Grid.Column="0" VerticalOptions="Start"  HeightRequest="32" WidthRequest="32" />
+    
+    
+    <Label Grid.Row="0" Grid.Column="1" FontSize="Title" FontAttributes="Bold" TextColor="Yellow"
+           Text="MI UCSHA Académico" />
+                <Image  Grid.Row="0" Grid.Column="2" Source="academi.png"   VerticalOptions="Start"  HeightRequest="50" WidthRequest="50" />
+                <Label Grid.Column="1"
+           Grid.Row="1" x:Name="msgText"
+           Text="v2.0.0R-2021" />
+
+        <StackLayout x:Name="s5" Margin="10" Opacity="0.7" Grid.Row="2" Grid.Column="1" BindingContext="{x:Reference Name=s5}">
+           
+            <Entry  HeightRequest="45" Placeholder="Rut:09435562" FontSize="Large" FontAttributes="Bold" x:Name="usuario" Keyboard="Numeric" >
+              <Entry.Behaviors>
+                 <local:NumericValidationBehavior/>
+              </Entry.Behaviors>
+            </Entry>
+             <Label FontSize="Micro"    TextColor="Red"   Text="Rut solo numeros sin digito verificador" />
+            <Entry  HeightRequest="45" Placeholder="Password" IsVisible="false" IsPassword="true" FontSize="Large" FontAttributes="Bold" x:Name="password"/>
+      <Label 
+          
+           Text=" " />
+          
+          </StackLayout>
+           <Button Grid.Row="3" Grid.Column="1"  HeightRequest="40" Text="Ingresar" FontSize="Large"  FontAttributes="Bold" BackgroundColor="DarkBlue" TextColor="Yellow" Clicked="OkButtonClicked" />
+        <!--ImageButton  Grid.Row="1" Grid.Column="3" Source="no.jpg" Clicked="CancelButtonClicked"  /--> 
+        
+       </Grid>
+        <StackLayout  VerticalOptions="End" Opacity="1" BackgroundColor="DarkBlue" HeightRequest="30" WidthRequest="400">
+         <Label Text=" "></Label>
+         </StackLayout>
+        
+      </RelativeLayout>
+    
+     </ContentPage.Content>   
+</ContentPage>

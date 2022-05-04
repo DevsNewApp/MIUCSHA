@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:forms="clr-namespace:Microcharts.Forms;assembly=Microcharts.Forms"
+             mc:Ignorable="d"
+             x:Class="MIUCSHA.AsisteDocePage">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout VerticalOptions="End"  BackgroundColor="DarkBlue" HeightRequest="70" WidthRequest="500">
+                <Grid Margin="5,5,20,20" >
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="0.2*" />
+                        <ColumnDefinition Width="0.6*" />
+                        <ColumnDefinition Width="0.2*" />
+
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="60" />
+                        <RowDefinition Height="50" />
+                        <RowDefinition Height="70" />
+                        <RowDefinition Height="50" />
+                        <RowDefinition Height="20" />
+                        <RowDefinition Height="70" />
+                        <RowDefinition Height="20" />
+                        <RowDefinition Height="70" />
+                        <RowDefinition Height="20" />
+                        <RowDefinition Height="70" />
+                        <RowDefinition Height="50" />
+                    </Grid.RowDefinitions>
+                    <Image Source="NUcsh.png"
+               Grid.Row="0" Grid.Column="0"   HorizontalOptions="Start" HeightRequest="32" WidthRequest="32" />
+
+                    <Label Grid.Row="0
+" Grid.Column="1" VerticalOptions="Start" HorizontalOptions="Center" FontSize="Medium" FontAttributes="Bold" TextColor="Yellow"
+             Text="ASISTENCIA DOCENTE" />
+<Image  Grid.Row="0" Grid.Column="2" Source="academi.png"   VerticalOptions="Start"  HeightRequest="50" WidthRequest="50" />
+               
+                    
+                    <!-- StackLayout Grid.Column="1" 
+           Grid.Row="2">
+                
+                </-->
+
+
+                </Grid>
+            </StackLayout>
+
+
+          
+           
+           
+            <Label   x:Name="Anio"
+          FontSize="Medium"  HorizontalTextAlignment="Center" FontAttributes="Bold" Text=" 2020-1 " >
+
+            </Label>
+            <Label x:Name="Titcurso"  
+          FontSize="Medium" FontAttributes="Bold" Text="RECURSOS COMUNICATIVOS INTRODUCCION DE TEXTOS" >
+
+            </Label>
+             <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="40" />
+                    <RowDefinition Height="40" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="200"/>
+                    <ColumnDefinition Width="200"/>
+
+                </Grid.ColumnDefinitions>
+                 <Label   Grid.Row="0" Grid.Column="0"
+          FontSize="Medium" FontAttributes="Bold" Text="Fecha" >
+            </Label>
+                <Label   Grid.Row="0" Grid.Column="1"
+          FontSize="Medium" FontAttributes="Bold" Text="Asignatura" >
+            </Label>
+                <DatePicker Grid.Row="1" Grid.Column="0" x:Name="XFecha"
+          Format="dd/MM/yyyy"
+            Date="09/02/2020"  DateSelected="XFecha_DateSelected" />
+                <Picker x:Name="Xpicker" Grid.Row="1" Grid.Column="1"
+                    Title="CCD01-7"
+                    TitleColor="Blue" SelectedIndexChanged="Xpicker_SelectedIndexChanged">
+                    
+                </Picker>
+            </Grid>
+             <forms:ChartView x:Name="Chartdemo1" HeightRequest="100" />
+            
+
+            <StackLayout>
+                <Grid  BackgroundColor="DarkBlue">
+
+                    <Grid.RowDefinitions>
+
+                        <RowDefinition Height="20" />
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                       
+                       
+                        <ColumnDefinition Width="100" />
+                        <ColumnDefinition   Width="100" />
+                        <ColumnDefinition Width="60" />
+                        <ColumnDefinition Width="60" />
+
+
+                    </Grid.ColumnDefinitions>
+                    <Label x:Name="Numeroso" VerticalOptions="Start"  Grid.Row="0" 
+                           Grid.Column="0" FontSize="Small"  TextColor="Yellow"
+                           Text="Situación"
+                           />
+                    <Label x:Name="Fechasa" VerticalOptions="Start"  Grid.Row="0" 
+                           Grid.Column="1" FontSize="Small"  TextColor="Yellow"
+                           Text="Fecha"
+                           />
+                    <Label VerticalOptions="Center"  Grid.Row="0" 
+                           Grid.Column="2" FontSize="Small"  TextColor="Yellow"
+                           Text="Modulo"
+                           />
+                    <Label VerticalOptions="Center"  Grid.Row="0" 
+                           Grid.Column="3" FontSize="Small"  TextColor="Yellow"
+                           Text="Minutos"
+                           />
+
+
+
+                </Grid>
+            </StackLayout>
+            <ListView  x:Name="Asistencias"  ItemTapped="Asistencias_ItemTapped" RowHeight = "70" ItemsSource="{Binding Asiste}"  >
+
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell  Height="65" >
+                            <Grid Padding="5">
+                                <Grid.RowDefinitions>
+
+                                    <RowDefinition Height="65" />
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition   Width="100" />
+                                    <ColumnDefinition Width="100" />
+                                    <ColumnDefinition Width="70" />
+                                    <ColumnDefinition Width="60" />
+                                  
+                                    <ColumnDefinition Width="20" />
+
+                                </Grid.ColumnDefinitions>
+                                <!-- Label IsVisible="{Binding Visible}" BackgroundColor="LightSkyBlue" Grid.Row="0"
+                           Grid.Column="0"
+                           Text="{Binding Asignatura}"
+                             / -->
+                                <!--ImageButton Grid.Row="1" Grid.Column="0" Source="Mensaje.jpg" Clicked="MsgClicked"
+                    HorizontalOptions="Start"
+                    VerticalOptions="CenterAndExpand" /-->
+                                <Button VerticalOptions="Center" FontSize="Micro" BorderColor="Black"  HeightRequest="50"  FontAttributes="Bold" Grid.Row="0"
+                           Grid.Column="0"
+                           Text="{Binding foto}"
+                           />
+                                <Label VerticalOptions="Center" FontSize="Caption" FontAttributes="Bold" Grid.Row="0"
+                           Grid.Column="1"
+                           Text="{Binding num}"
+                           />
+
+                                <Button VerticalOptions="Center" FontSize="Caption" BorderColor="Black" HeightRequest="50"  FontAttributes="Bold" Grid.Row="0"
+                           Grid.Column="2"
+                           Text="{Binding nombre}"
+                           />
+                                <Button Text="{Binding rut}"  Grid.Row="0"
+                           Grid.Column="3" FontSize="Caption"   BorderColor="Black" HeightRequest="50"   HorizontalOptions="Center" VerticalOptions="Center" />
+
+                          
+                                <!--Label VerticalOptions="Center"  Grid.Row="0"
+                           Grid.Column="3"
+                           Text="{Binding Nota}"
+                           / -->
+
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+            <!-- Grid>
+         <Grid.RowDefinitions>
+                 <RowDefinition Height="60" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="300"/>
+                <ColumnDefinition Width="60"/>
+           </Grid.ColumnDefinitions>
+         <Label x:Name="etiqueta" Grid.Row="0"  Grid.Column="0" HorizontalOptions="End" FontSize="Large" FontAttributes="Bold"  Text="Final    " />
+     <Button  Grid.Row="0"  Grid.Column="1" x:Name="Final" Text="0"   IsVisible="false"  
+                          FontSize="Large" BorderColor="Green" WidthRequest="60" HeightRequest="60" BorderRadius="30" BorderWidth="3" HorizontalOptions="End" VerticalOptions="Center" Clicked="CancelButtonClicked"/>
+
+     
+     </Grid -->
+
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="30" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="30"/>
+                    <ColumnDefinition Width="300"/>
+                    <ColumnDefinition Width="30"/>
+                </Grid.ColumnDefinitions>
+
+                <ImageButton Grid.Row="0" Grid.Column="0" Source="no.jpg" Clicked="CancelButtonClicked"
+                  
+                    VerticalOptions="CenterAndExpand" />
+                <!-- ImageButton Grid.Row="0" Grid.Column="2" Source="home.png" Clicked="CancelButtonClicked"
+                  
+                    VerticalOptions="CenterAndExpand" / -->
+            </Grid>
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>

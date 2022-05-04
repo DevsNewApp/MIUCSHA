@@ -1,0 +1,15 @@
+MonoTouch: Could not install sigaction override, unexpected sigaction implementation.
+2020-11-06 09:30:28.775562-0300 MIUCSHA.iOS[4503:110890] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=4503
+2020-11-06 09:30:28.776173-0300 MIUCSHA.iOS[4503:110890] SecTaskCopyDebugDescription: MIUCSHA.iOS[4503]/0#-1 LF=0
+2020-11-06 09:30:28.787260-0300 MIUCSHA.iOS[4503:110890] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=4503
+2020-11-06 09:30:28.787581-0300 MIUCSHA.iOS[4503:110890] SecTaskCopyDebugDescription: MIUCSHA.iOS[4503]/0#-1 LF=0
+2020-11-06 09:31:05.864407-0300 MIUCSHA.iOS[4503:110890] [unspecified] container_system_group_path_for_identifier: error = (container_error_t)53
+2020-11-06 09:31:05.864647-0300 MIUCSHA.iOS[4503:110890] [MC] Error getting system group container for systemgroup.com.apple.configurationprofiles: 53
+2020-11-06 09:31:05.865053-0300 MIUCSHA.iOS[4503:110890] [MC] Failed to get profile system group container path. Overriding with expected path: /Users/Tomas/Library/Developer/CoreSimulator/Devices/87488652-24CB-4EBC-8C2A-29FE0FC56162/data/Containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles
+2020-11-06 09:31:05.913784-0300 MIUCSHA.iOS[4503:110890] WARNING: This app's CFBundleDevelopmentRegion is not a string value. This can lead to unexpected results at runtime. Please change CFBundleDevelopmentRegion in your Info.plist to a string value.
+2020-11-06 09:31:05.934532-0300 MIUCSHA.iOS[4503:110890] Can't find keyplane that supports type 8 for keyboard iPhone-PortraitChoco-DecimalPad; using 25793_PortraitChoco_iPhone-Simple-Pad_Default
+2020-11-06 09:31:24.572327-0300 MIUCSHA.iOS[4503:110961] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=4503
+2020-11-06 09:31:24.572774-0300 MIUCSHA.iOS[4503:110961] SecTaskCopyDebugDescription: MIUCSHA.iOS[4503]/0#-1 LF=0
+2020-11-06 09:33:53.559995-0300 MIUCSHA.iOS[4503:111476] [] nw_socket_handle_socket_event [C20.1:2] Socket SO_ERROR [54: Connection reset by peer]
+2020-11-06 09:33:53.560406-0300 MIUCSHA.iOS[4503:111476] [] nw_read_request_report [C20] Receive failed with error "Connection reset by peer"
+2020-11-06 09:33:53.560744-0300 MIUCSHA.iOS[4503:111476] [] nw_socket_output_finished [C20.1:2] shutdown(9, SHUT_WR) [57: Socket is not connected]

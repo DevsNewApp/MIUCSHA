@@ -1,0 +1,61 @@
+﻿<Properties StartupConfiguration="{03965ECF-9F9D-4123-853D-7E692B94C886}|Default" HasHotReloadOverlayBeenDismissed="True">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="MIUCSHA/MenuPage.xaml.cs" Line="54" Column="10" />
+      <File FileName="MIUCSHA/MenuPage.xaml" Line="125" Column="54" />
+      <File FileName="MIUCSHA/AsisteDocePage.xaml.cs" />
+      <File FileName="MIUCSHA/CaliAcaPage.xaml" />
+      <File FileName="MIUCSHA/CaliAcaPage.xaml.cs" />
+      <File FileName="MIUCSHA/MainPage.xaml" Line="46" Column="30" />
+      <File FileName="MIUCSHA/NotaParcialPage.xaml" />
+      <File FileName="MIUCSHA/CaliMeuPage.xaml" />
+      <File FileName="MIUCSHA/DetalleAlumno.xaml.cs" />
+      <File FileName="MIUCSHA/DetalleAlumno.xaml" />
+      <File FileName="MIUCSHA.iOS/Main.cs" />
+      <File FileName="MIUCSHA/AsisteDocePage.xaml" />
+      <File FileName="MIUCSHA/CalendarioAcadPage.xaml" />
+      <File FileName="MIUCSHA/HorariosPage.xaml" />
+      <File FileName="MIUCSHA/Notifica.xaml" />
+      <File FileName="MIUCSHA/FacultadesSel.xaml" />
+      <File FileName="MIUCSHA/CaliMeuPage.xaml.cs" />
+      <File FileName="MIUCSHA/NotaParcialPage.xaml.cs" />
+      <File FileName="MIUCSHA/NotaFinalPage.xaml.cs" />
+      <File FileName="MIUCSHA/EscuelaClass.cs" />
+      <File FileName="MIUCSHA/EstudianteClass.cs" />
+      <File FileName="../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/iOS/Xamarin.Shared.targets" />
+      <File FileName="MIUCSHA.Android/Resources/mipmap-anydpi-v26/icon_round.xml" />
+      <File FileName="MIUCSHA.Android/Resources/mipmap-anydpi-v26/icon.xml" />
+      <File FileName="MIUCSHA/Notifica.xaml.cs" />
+      <File FileName="MIUCSHA/UsuarioClass.cs" />
+      <File FileName="MIUCSHA/UsuariosClass.cs" />
+      <File FileName="MIUCSHA.Android/Resources/xml/network_security_config.xml" />
+      <File FileName="MIUCSHA.Android/MainActivity.cs" />
+      <File FileName="MIUCSHA/DestinosPage.xaml" />
+      <File FileName="MIUCSHA/MiCalendario.xaml" />
+      <File FileName="MIUCSHA/MyPage.xaml" />
+      <File FileName="MIUCSHA/MyPage.xaml.cs" />
+      <File FileName="MIUCSHA.iOS/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MIUCSHA" expanded="True">
+            <Node name="MIUCSHA" expanded="True">
+              <Node name="MenuPage.xaml" expanded="True" />
+            </Node>
+            <Node name="MIUCSHA.Android" expanded="True" selected="True" />
+            <Node name="MIUCSHA.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MIUCSHA.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget." />
+  <MonoDevelop.Ide.ItemProperties.MIUCSHA.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.Nexus_6P_API_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

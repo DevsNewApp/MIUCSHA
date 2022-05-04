@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="MIUCSHA.DetalleAlumno">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout VerticalOptions="End"  BackgroundColor="DarkBlue" HeightRequest="70" WidthRequest="500">
+                <Grid Margin="5,5,20,20" >
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="50"  />
+                        <ColumnDefinition Width="250"  />
+                        <ColumnDefinition Width="50"  />
+
+
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="50"  />
+                        <RowDefinition Height="100" />
+                        <RowDefinition Height="100" />
+                        <RowDefinition Height="50" />
+                        <RowDefinition Height="100" />
+                        <RowDefinition Height="25" />
+                        <RowDefinition Height="50" />
+                        <RowDefinition Height="50" />
+                    </Grid.RowDefinitions>
+                    <Image Source="NUcsh.png"
+            Grid.Row="0" Grid.Column="0"   HeightRequest="32" WidthRequest="32" />
+
+
+                   <Label Grid.Row="0" Grid.Column="1" VerticalOptions="Center" HorizontalOptions="Center" FontSize="Subtitle" FontAttributes="Bold" TextColor="Yellow"
+           Text="MI UCSHA" />
+  <Image  Grid.Row="0" Grid.Column="2" Source="academi.png"   VerticalOptions="Start"  HeightRequest="50" WidthRequest="50" />
+
+                    <!-- Label Text=" "></   -->
+                </Grid>
+              </StackLayout>
+            
+        <StackLayout>
+            <Grid  >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="50"  />
+                    <ColumnDefinition Width="250"  />
+                    <ColumnDefinition Width="50"  />
+
+
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="250"  />
+                  
+                </Grid.RowDefinitions>
+                <Image Grid.Row="0"  
+                          x:Name="FotoA"  Grid.Column="1" Source="fotico.png" HorizontalOptions="Center"   HeightRequest="250" WidthRequest="250" />
+
+
+             
+
+                <!-- Label Text=" "></   -->
+            </Grid>
+          
+             <Grid>
+                  <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="100"  />
+                    <ColumnDefinition Width="250"  />
+                    
+
+
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="30"  />
+                    <RowDefinition Height="30"  />
+                    <RowDefinition Height="60"  />
+                    <RowDefinition Height="30"  />
+                    <RowDefinition Height="30"  />
+                    <RowDefinition Height="30"  />
+                </Grid.RowDefinitions>
+            <Label FontSize="Medium" FontAttributes="Bold" Text="  " >
+            </Label>
+                 <Label  Grid.Row="0" Grid.Column="0" FontSize="Medium" FontAttributes="Bold" Text="RUT:"/>
+                <Label Grid.Row="0" Grid.Column="1" x:Name="RutA"  FontSize="Medium"  Text=" "></Label>
+                 <Label  Grid.Row="1" Grid.Column="0" FontSize="Medium" FontAttributes="Bold" Text="NMAT:"/>
+                <Label  Grid.Row="1" Grid.Column="1" x:Name="XNmat" FontSize="Medium"  Text="  " >
+
+            </Label>
+                 <Label  Grid.Row="2" Grid.Column="0" FontSize="Medium" FontAttributes="Bold" Text="NOMBRE:"/>
+                <Label Grid.Row="2" Grid.Column="1" x:Name="NombreA" FontSize="Medium"  Text=" "></Label>
+                <Label  Grid.Row="3" Grid.Column="0" FontSize="Medium" FontAttributes="Bold" Text="CARRERA:"/>
+                <Label  Grid.Row="3" Grid.Column="1" x:Name="CarreraA" FontSize="Medium"  Text="  "></Label>
+                 <Label  Grid.Row="4" Grid.Column="0" FontSize="Medium" FontAttributes="Bold" Text="EMAIL:"/>
+                <Label  Grid.Row="4" Grid.Column="1" x:Name="EmailA" FontSize="Medium"  Text=" "></Label>
+            <Label
+            FontSize="Medium" FontAttributes="Bold" Text="  " >
+
+            </Label>
+          </Grid>
+            
+            <ImageButton  Source="no.jpg" Clicked="CancelButtonClicked"
+                    HorizontalOptions="Start"
+                    VerticalOptions="CenterAndExpand" />
+
+        </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

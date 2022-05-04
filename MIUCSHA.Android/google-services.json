@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "295377697756",
+    "firebase_url": "https://miucsh-e9a34.firebaseio.com",
+    "project_id": "miucsh-e9a34",
+    "storage_bucket": "miucsh-e9a34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295377697756:android:9d1d3b6469ab0f88556d19",
+        "android_client_info": {
+          "package_name": "com.bizgroup.miucsha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295377697756-as83cml494fie2iclvpe3pr72aj19tta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyzccvVMTtIx9aUoDURUlXN9Rl1bNoJps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295377697756-as83cml494fie2iclvpe3pr72aj19tta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

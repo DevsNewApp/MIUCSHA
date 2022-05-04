@@ -1,0 +1,1440 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=SystemNative_StrErrorR
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_OpenDir
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetReadDirRBufferSize
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadDirR
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CloseDir
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadLink
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_FStat2
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Symlink
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ChMod
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CopyFile
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEGid
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEUid
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LChflags
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LChflagsCanSetHiddenFlag
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Link
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_MkDir
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Rename
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_RmDir
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_UTime
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_UTimes
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Unlink
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_names
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_locale_country_code
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_start_wwan
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=xamarin_get_block_descriptor
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix4
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix4
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSend
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSendSuper
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSend_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSendSuper_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_NVector3_int_CGSize
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_NVector3_int_CGSize
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_stret_NVector3_int_CGSize
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_stret_NVector3_int_CGSize
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_NVector3_Int64_CGSize
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_NVector3_Int64_CGSize
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_stret_NVector3_Int64_CGSize
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_stret_NVector3_Int64_CGSize
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4_int_CGSize
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4_int_CGSize
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4_int_CGSize
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4_int_CGSize
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4_Int64_CGSize
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4_Int64_CGSize
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4_Int64_CGSize
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4_Int64_CGSize
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_int_CGSize_nfloat_nfloat
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_int_CGSize_nfloat_nfloat
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_int_CGSize_nfloat_nfloat
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_int_CGSize_nfloat_nfloat
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Int64_CGSize_nfloat_nfloat
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_Int64_CGSize_nfloat_nfloat
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_Int64_CGSize_nfloat_nfloat
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_Int64_CGSize_nfloat_nfloat
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_int
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_int
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_int
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_int
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Int64
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_Int64
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_Int64
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_Int64
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4_NVector3
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4_NVector3
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix4_NVector3
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix4_NVector3
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NVector3_NVector3_int_int
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NVector3_NVector3_int_int
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NVector3_NVector3_Int64_Int64
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NVector3_NVector3_Int64_Int64
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4_NVector3_NVector3_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4_NVector3_NVector3_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSend
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSendSuper
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSend_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSendSuper_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_IntPtr_UInt32
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_IntPtr_UInt32
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_IntPtr_UInt64
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_IntPtr_UInt64
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_nint_nint_nint_UInt32
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_nint_nint_nint_UInt32
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_nint_nint_nint_UInt64
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_nint_nint_nint_UInt64
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_UInt32_nint_UInt32
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_UInt32_nint_UInt32
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_UInt64_nint_UInt64
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_UInt64_nint_UInt64
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSend
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSendSuper
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSend_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSendSuper_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix3
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix3
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix3
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix3
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSend
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSendSuper
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSend_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSendSuper_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i_int_int_bool
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i_int_int_bool
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i_int_int_bool_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i_int_int_bool_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_Vector2_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_Vector2_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_Vector2
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_Vector2
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSend_nuint
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSendSuper_nuint
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSend_stret_nuint
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSendSuper_stret_nuint
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSend_Vector2
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSendSuper_Vector2
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3d
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3d
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2d_Vector2d_Vector2i_bool
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2d_Vector2d_Vector2i_bool
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSend_Vector2i
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSendSuper_Vector2i
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_float_Vector2i
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_float_Vector2i
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSend
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSendSuper
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSend_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSendSuper_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKBox_float
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKBox_float
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector3
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector3
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_GKBox
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_GKBox
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKBox
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKBox
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_nuint
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_nuint
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_nuint
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_nuint
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_nuint
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_nuint
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_nuint
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_nuint
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKQuad_float
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKQuad_float
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_GKQuad
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_GKQuad
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKQuad
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKQuad
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2_float
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2_float
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2_Vector2
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2_Vector2
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSend
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSendSuper
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSend_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSendSuper_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2_int
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2_int
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2_Int64
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2_Int64
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSend
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSendSuper
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSend_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSendSuper_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSend
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSendSuper
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSend_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSendSuper_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_ref_MPSImageHistogramInfo
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_ref_MPSImageHistogramInfo
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4d_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4d_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_stret_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_stret_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Quaternion_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Quaternion_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Quaterniond_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Quaterniond_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend_stret_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper_stret_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaterniond_objc_msgSend_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaterniond_objc_msgSendSuper_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaterniond_objc_msgSend_stret_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaterniond_objc_msgSendSuper_stret_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2d_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2d_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_stret_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_stret_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3d_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3d_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSend_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSendSuper_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSend_stret_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSendSuper_stret_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4d_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4d_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_stret_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_stret_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSend_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSendSuper_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSend_stret_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSendSuper_stret_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4d
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4d
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_MDLAxisAlignedBoundingBox_bool
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_MDLAxisAlignedBoundingBox_bool
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3_Vector3
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3_Vector3
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector2i_Vector2i
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector2i_Vector2i
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector2i_Vector2i
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector2i_Vector2i
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_bool_IntPtr_Vector2i_nint_nuint_int_bool
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_bool_IntPtr_Vector2i_nint_nuint_int_bool
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_bool_IntPtr_Vector2i_nint_nuint_Int64_bool
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_bool_IntPtr_Vector2i_nint_nuint_Int64_bool
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_int_IntPtr_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_int_IntPtr_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_Int64_IntPtr_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_Int64_IntPtr_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_float_IntPtr_Vector2i
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_float_IntPtr_Vector2i
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_IntPtr_Vector2i
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_IntPtr_Vector2i
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix4
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix4
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Vector2
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Vector2
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Vector2
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Vector2
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Vector3
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Vector3
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Vector3
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Vector3
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Vector4
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Vector4
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Vector4
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Vector4
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Matrix4
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Matrix4
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Matrix4
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Matrix4
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_NMatrix4
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_NMatrix4
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_NMatrix4
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_NMatrix4
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_bool_int_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_bool_int_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_bool_Int64_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_bool_Int64_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_int_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_int_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_Int64_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_Int64_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_int_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_int_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_Int64_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_Int64_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_bool_int_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_bool_int_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_bool_Int64_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_bool_Int64_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_int_bool_int_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_int_bool_int_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_int_bool_Int64_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_int_bool_Int64_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_int_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_int_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_Int64_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_Int64_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_bool_int_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_bool_int_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_bool_Int64_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_bool_Int64_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_int_UInt32_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_int_UInt32_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_int_bool_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_int_bool_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_Int64_bool_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_Int64_bool_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2i_int_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2i_int_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2i_Int64_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2i_Int64_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_nuint_nuint_int_bool_bool_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_nuint_nuint_int_bool_bool_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_nuint_nuint_Int64_bool_bool_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_nuint_nuint_Int64_bool_bool_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_int_bool_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_int_bool_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_Int64_bool_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_Int64_bool_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_nuint_int_bool_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_nuint_int_bool_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_nuint_Int64_bool_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_nuint_Int64_bool_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector2i_nint_float_IntPtr_IntPtr_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector2i_nint_float_IntPtr_IntPtr_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector2i_IntPtr_IntPtr_IntPtr_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector2i_IntPtr_IntPtr_IntPtr_IntPtr
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_Int64
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_Int64
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_int_bool
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_int_bool
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_Int64_bool
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_Int64_bool
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_int_Vector2i_float_float_float_float
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_int_Vector2i_float_float_float_float
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Int64_Vector2i_float_float_float_float
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Int64_Vector2i_float_float_float_float
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_int_Vector2i_float_float_float_float_float
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_int_Vector2i_float_float_float_float_float
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Int64_Vector2i_float_float_float_float_float
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Int64_Vector2i_float_float_float_float_float
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_Vector2i
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_Vector2i
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_Vector2i_float
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_Vector2i_float
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Matrix4
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Matrix4
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Matrix4_bool
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Matrix4_bool
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4_bool
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4_bool
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix4_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix4_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_IntPtr_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_IntPtr_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret_IntPtr_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret_IntPtr_Double
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSend
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSendSuper
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSend_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSendSuper_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_MDLAxisAlignedBoundingBox_float
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_MDLAxisAlignedBoundingBox_float
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector4i_bool_bool_bool_bool
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector4i_bool_bool_bool_bool
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4i
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4i
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_MDLVoxelIndexExtent2
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_MDLVoxelIndexExtent2
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSend_Vector3
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSendSuper_Vector3
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSend_stret_Vector3
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSendSuper_stret_Vector3
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector4i
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector4i
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector4i
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector4i
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_Vector4i
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_Vector4i
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret_Vector4i
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret_Vector4i
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector3
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector3
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector3
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector3
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector4
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector4
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSend
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSendSuper
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSend_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSendSuper_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__void_objc_msgSend_Vector4
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__void_objc_msgSendSuper_Vector4
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Quaternion
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Quaternion
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSend
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSendSuper
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSend_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSendSuper_stret
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix2
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix2
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector4
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector4
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix2
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix2
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix2
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix2
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix3
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix3
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix3
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix3
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix4
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix4
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_nint
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_nint
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_nint
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_nint
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_CGPoint__VNNormalizedFaceBoundingBoxPointForLandmarkPoint_Vector2_CGRect_nuint_nuint_string
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_CGPoint__VNImagePointForFaceLandmarkPoint_Vector2_CGRect_nuint_nuint_string
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_1
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_2
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_3
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_4
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_5
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_6
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_7
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_8
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_9
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_init_nsthread
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_os_log
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=NetSecurityNative_ReleaseGssBuffer
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMinorStatus
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMajorStatus
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportUserName
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportPrincipalName
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseName
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredSpNego
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredWithPassword
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseCred
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitSecContext
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitSecContextEx
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_AcceptSecContext
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DeleteSecContext
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_GetUser
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_Wrap
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_Unwrap
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=SystemNative_GetDomainSocketSizes
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.Core.dll
+Function=BrotliDecoderCreateInstance
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderDecompressStream
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderDecompress
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderDestroyInstance
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderIsFinished
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderCreateInstance
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderSetParameter
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderCompressStream
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderHasMoreOutput
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderDestroyInstance
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderCompress
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=hb_blob_create
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_blob_destroy
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_blob_make_immutable
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_blob_is_immutable
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_blob_get_length
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_blob_get_data
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_blob_create_from_file
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_blob_get_empty
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_face_count
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_face_create
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_face_create_for_tables
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_face_get_empty
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_face_destroy
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_face_set_index
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_face_get_index
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_face_set_upem
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_face_get_upem
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_face_set_glyph_count
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_face_get_glyph_count
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_face_make_immutable
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_face_is_immutable
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_face_reference_table
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_face_get_table_tags
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_funcs_create
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_funcs_get_empty
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_funcs_destroy
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_funcs_make_immutable
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_funcs_is_immutable
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_funcs_set_font_h_extents_func
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_funcs_set_font_v_extents_func
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_funcs_set_nominal_glyph_func
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_funcs_set_nominal_glyphs_func
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_funcs_set_variation_glyph_func
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_funcs_set_glyph_h_advance_func
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_funcs_set_glyph_v_advance_func
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_funcs_set_glyph_h_advances_func
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_funcs_set_glyph_v_advances_func
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_funcs_set_glyph_h_origin_func
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_funcs_set_glyph_v_origin_func
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_funcs_set_glyph_h_kerning_func
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_funcs_set_glyph_extents_func
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_funcs_set_glyph_contour_point_func
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_funcs_set_glyph_name_func
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_funcs_set_glyph_from_name_func
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_create
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_create_sub_font
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_destroy
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_set_funcs
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_set_scale
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_get_scale
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_get_h_extents
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_get_v_extents
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_get_nominal_glyph
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_get_variation_glyph
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_get_glyph_h_advance
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_get_glyph_v_advance
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_get_glyph_h_advances
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_get_glyph_v_advances
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_get_glyph_h_origin
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_get_glyph_v_origin
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_get_glyph_h_kerning
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_get_glyph_extents
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_get_glyph_contour_point
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_get_glyph_name
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_get_glyph_from_name
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_get_glyph
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_get_extents_for_direction
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_get_glyph_advance_for_direction
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_get_glyph_advances_for_direction
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_get_glyph_contour_point_for_origin
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_glyph_to_string
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_font_glyph_from_string
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_ot_font_set_funcs
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_ot_metrics_get_position
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_ot_metrics_get_variation
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_ot_metrics_get_x_variation
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_ot_metrics_get_y_variation
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_create
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_destroy
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_reset
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_append
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_add
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_add_utf8
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_add_utf16
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_add_utf32
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_add_codepoints
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_guess_segment_properties
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_set_length
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_get_length
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_clear_contents
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_get_glyph_infos
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_get_glyph_positions
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_set_script
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_get_script
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_set_direction
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_get_direction
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_set_language
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_get_language
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_set_content_type
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_get_content_type
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_set_replacement_codepoint
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_get_replacement_codepoint
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_set_invisible_glyph
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_get_invisible_glyph
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_set_flags
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_get_flags
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_set_cluster_level
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_get_cluster_level
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_normalize_glyphs
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_reverse
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_reverse_range
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_reverse_clusters
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_serialize_glyphs
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_deserialize_glyphs
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_set_unicode_funcs
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_buffer_get_unicode_funcs
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_shape_full
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_shape_list_shapers
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_language_from_string
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_language_to_string
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_language_get_default
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_glyph_info_get_glyph_flags
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_feature_to_string
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_feature_from_string
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_script_get_horizontal_direction
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_script_from_string
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_unicode_funcs_get_default
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_unicode_funcs_get_empty
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_unicode_funcs_create
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_unicode_funcs_destroy
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_unicode_funcs_make_immutable
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_unicode_funcs_is_immutable
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_unicode_combining_class
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_unicode_general_category
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_unicode_mirroring
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_unicode_script
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_unicode_compose
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_unicode_decompose
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_unicode_funcs_set_combining_class_func
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_unicode_funcs_set_general_category_func
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_unicode_funcs_set_mirroring_func
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_unicode_funcs_set_script_func
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_unicode_funcs_set_compose_func
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=hb_unicode_funcs_set_decompose_func
+	/Users/Tomas/Projects/MIUCSHA/MIUCSHA.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/HarfBuzzSharp.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="MIUCSHA.DestinosPage">
+  <ContentPage.Content>
+     <StackLayout>
+           <StackLayout VerticalOptions="End"  BackgroundColor="DarkBlue" HeightRequest="70" WidthRequest="500">
+         <Grid Margin="5,5,20,20" >
+    <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="50"  />
+        <ColumnDefinition Width="250"  />
+        <ColumnDefinition Width="50"  />
+    
+
+    </Grid.ColumnDefinitions>
+    <Grid.RowDefinitions>
+        <RowDefinition Height="50"  />
+        <RowDefinition Height="100" />
+         <RowDefinition Height="100" />
+        <RowDefinition Height="50" />
+         <RowDefinition Height="100" />
+         <RowDefinition Height="25" />
+         <RowDefinition Height="50" />
+         <RowDefinition Height="50" />
+    </Grid.RowDefinitions>
+         <Image Source="NUcsh.png"
+            Grid.Row="0" Grid.Column="0"   HeightRequest="32" WidthRequest="32" />
+    
+    
+     <Label Grid.Row="0" Grid.Column="1" VerticalOptions="Center" HorizontalOptions="Center" FontSize="Subtitle" FontAttributes="Bold" TextColor="Yellow"
+           Text="MI UCSHA" />
+  <Image  Grid.Row="0" Grid.Column="2" Source="academi.png"   VerticalOptions="Start"  HeightRequest="50" WidthRequest="50" />
+
+    <!-- Label Text=" "></   -->
+    </Grid> 
+  </StackLayout>
+       <StackLayout>
+               <Label TextColor="Black" FontSize="Large" FontAttributes="Bold" VerticalOptions="Center" HorizontalOptions="Center" Text="Enviar Notificacion" />
+           
+       </StackLayout>
+              <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+         <Label x:Name="Etiq"   Margin="0,0,0,10" Text="Enviar Notificacion" FontAttributes="Bold" FontSize="Large" TextColor="Blue" HorizontalTextAlignment="Center" />     
+         <ImageButton Source="send.png"  Clicked="ButtonClicked"  HorizontalOptions="End"
+                    VerticalOptions="Center" />
+                  </StackLayout>
+         <!-- Label Text="{Binding destinoProperty}"> </  -->    
+         <Entry x:Name="txtSubject" BackgroundColor="LightGoldenrodYellow" Placeholder="Asunto"> </Entry>    
+         <Editor x:Name="txtBody" HeightRequest="200"  BackgroundColor="LightGoldenrodYellow"> </Editor>   
+         <ImageButton Source="send.png"  Clicked="ButtonClicked"  HorizontalOptions="Start"
+                    VerticalOptions="CenterAndExpand" />
+             <ImageButton  Source="no.jpg" Clicked="CancelButtonClicked"
+                    HorizontalOptions="End"
+                    VerticalOptions="CenterAndExpand" />
+        </StackLayout>
+      
+     </ContentPage.Content>
+ 
+</ContentPage>

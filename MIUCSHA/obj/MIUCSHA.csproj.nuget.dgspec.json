@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Tomas/Projects/MIUCSHA/MIUCSHA/MIUCSHA.csproj": {}
+  },
+  "projects": {
+    "/Users/Tomas/Projects/MIUCSHA/MIUCSHA/MIUCSHA.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Tomas/Projects/MIUCSHA/MIUCSHA/MIUCSHA.csproj",
+        "projectName": "MIUCSHA",
+        "projectPath": "/Users/Tomas/Projects/MIUCSHA/MIUCSHA/MIUCSHA.csproj",
+        "packagesPath": "/Users/Tomas/.nuget/packages/",
+        "outputPath": "/Users/Tomas/Projects/MIUCSHA/MIUCSHA/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Tomas/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microcharts": {
+              "target": "Package",
+              "version": "[0.9.5.9, )"
+            },
+            "Microcharts.Forms": {
+              "target": "Package",
+              "version": "[0.9.5.9, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Rg.Plugins.Popup": {
+              "target": "Package",
+              "version": "[2.0.0.11, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2012, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
